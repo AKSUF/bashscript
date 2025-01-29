@@ -9,7 +9,7 @@ read n
 sum=0;
 
 
-echo "Enter the integers"
+echo " the integers"
 
 for((i=0;i<n;i++));do
   read sum
